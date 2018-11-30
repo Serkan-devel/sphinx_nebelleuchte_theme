@@ -1,5 +1,6 @@
-# Code of Conduct
+# Contributor Code of Conduct
 
-A copy of our code of conduct can be found on Read the Docs as seen below.
+This project adheres to No Code of Conduct.  We are all adults.  We accept anyone's contributions.  Nothing else matters.
 
-http://docs.readthedocs.io/en/latest/code-of-conduct.html
+For more information please visit the [No Code of Conduct](https://github.com/domgetter/NCoC) homepage.
+
