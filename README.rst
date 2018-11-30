@@ -1,6 +1,6 @@
 
 **************************
-Read the Docs Sphinx Theme
+Nebelleuchte Theme
 **************************
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
